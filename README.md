@@ -1,1 +1,1 @@
-# ranajit
+# Ranajit's Study Notes
